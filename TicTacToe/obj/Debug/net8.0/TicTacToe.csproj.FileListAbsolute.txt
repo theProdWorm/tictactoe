@@ -1,0 +1,14 @@
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+\\StudentNAS1\StudentHome\2024\b24emiro\Documents\GitHub\tictactoe\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll
